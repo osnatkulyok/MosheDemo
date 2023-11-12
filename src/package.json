@@ -1,0 +1,11 @@
+{
+  "name": "MosheDemo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
